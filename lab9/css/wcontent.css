@@ -1,0 +1,42 @@
+ #mybody{ font-size: 12px;
+     	font-family: '宋体'
+  		color:#522a06;
+   		padding:0px;
+    	margin:0px;
+     	}
+.nav_content{width:800px;}
+.nav_content ul{list-style-type: none;}     
+.nav_content ul li {text-align: center;
+					float:left;}
+.nav_content ul li a{color:white;
+					text-decoration: none;
+					height:40px;}
+			
+.banner1{width: 1265px;
+		height:200px;
+    	}
+
+.nav{height: 40px;
+	background-image: url(../images/nav.jpg);}
+#content_left{width:800px;float:left;}
+h1{font-size:16px;height:45px;text-align: center;  line-height:45px;border-bottom:1px solid #c9baa5;}
+h2{font-size:12px;text-align: center; color:#757575;margin:10px;}
+.left1{line-height:28px;padding:10px;font-size:14px;width:700px; border-bottom:1px solid #c9baa5;}
+.left2 {text-indent:2em;margin-top:5px; width:700px;}
+.web15{margin:20px 60px}
+#content_right{width:400px;float:left;margin-left:10px;}
+.web16{width: 400px;
+		height: 50px;}
+.wenzi{font-size: 26px;}
+.web18{width: 400px;
+		height: 400px;}
+#footer{
+		padding-top:10px;
+		height:105px;
+		clear:both;
+		background:url(../images/foot.gif);
+		text-align: center;}
+
+.youqinglianjie{
+		margin-left:60px;
+		padding-top:10px;}
